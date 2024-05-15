@@ -1,11 +1,1 @@
-[context.production]
-  NODE_ENV = "production"
-  OPENAI_API_KEY = "sk-Z3NelWAXyMpzJP1C620905B8E5Ac4f09Ad7d46717d898051"
-  BASE_URL = "https://one-api.bltcy.top"
-  CODE = "kWGP82hAePVkYDwNimDltoNvmvIf"
 
-[context.deploy-preview.environment]
-  NODE_ENV = "development"
-  OPENAI_API_KEY = "sk-Z3NelWAXyMpzJP1C620905B8E5Ac4f09Ad7d46717d898051"
-  BASE_URL = "https://one-api.bltcy.top"
-  CODE = "kWGP82hAePVkYDwNimDltoNvmvIf"
